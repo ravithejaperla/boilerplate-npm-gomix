@@ -1,6 +1,13 @@
- {
+{
   "name": "fcc-learn-npm-package-json",
-  "author": "foobar",
+  "author": "ravithejaperla",
+  "description": "learning back end devlopment",
+  "keywords": [
+    "freecodecamp",
+    "descriptive",
+    "realted",
+    "words"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -14,5 +21,7 @@
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"
-  }
+  },
+  "license": "MIT",
+  "version": "1.2.0"
 }
